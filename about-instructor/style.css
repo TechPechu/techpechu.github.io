@@ -90,10 +90,18 @@ html {
 }
 
 #skills {
-  background-color: #8fc0a9;
+  background-color: #023047;
 }
 
 .edu_h1 {
+  padding: 13% 1% 10% 10%;
+  font-size: 2.5rem;
+  text-align: center;
+  font-family: 'Ubuntu';
+  color: #00416d;
+}
+
+.cert_h1 {
   padding: 13% 1% 10% 10%;
   font-size: 2.5rem;
   text-align: center;
@@ -110,18 +118,21 @@ html {
 .p_skills{
   text-align: center;
     font-family: 'Ubuntu';
-    color: #0A63F2;
+    color: #ffffff;
       font-size: 1.5rem;
 }
 
 .skill_h1{
   padding-top: 3%;
+  color: #ffffff;
 }
 .skill_title{
   margin: auto;
   text-align: center;
     color: #00416d;
 }
+
+
 
 .connect_h1{
 padding-top: 4%;
